@@ -76,10 +76,10 @@
     "babel-cli": "^6.26.0",
     "chai": "^4.2.0",
     "coveralls": "^3.0.3",
-    "eslint": "^4.19.1",
+    "eslint": "^9.32.0",
     "istanbul": "^0.4.5",
-    "mocha": "^4.1.0",
-    "nyc": "^13.3.0"
+    "mocha": "^11.7.1",
+    "nyc": "^17.1.0"
   },
   "dependencies": {
     "as-table": "^1.0.36",
